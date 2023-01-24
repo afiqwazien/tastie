@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --primary: #f396b5;
+    --text: #ffffff;
+    --text-acccent:#777;
+    --bs-body-font-family: 'Source Sans Pro' !important;
+  }
+
+body {
+  font-family: 'Source Sans Pro';
+}
